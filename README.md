@@ -13,7 +13,7 @@ A backend service built with Python and FastAPI that acts as a connector to the 
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-github-repo-url>
+   git clone https://github.com/subha0319/github-cloud-connector.git
    cd "Cloud Connector"
    ```
 
